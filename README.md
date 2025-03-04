@@ -20,3 +20,4 @@ User-Friendly UI: Simple and intuitive interface for seamless task management.
 mvn clean install
 mvn clean project
 mvn spring-boot:run
+
